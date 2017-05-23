@@ -15,4 +15,7 @@ module.exports=function(app){
 		//res.send(projects);
 		res.render("portfolio", {projects: projects});
 	});
+	app.get("/resume", function(req, res){
+		res.render("resume", {});
+	})
 }
