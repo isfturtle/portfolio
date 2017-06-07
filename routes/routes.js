@@ -8,7 +8,7 @@ module.exports=function(app){
 	app.get("/", function(req, res){
 		//console.log("log");
 		//res.send(projects);
-		res.render("turtle", {projects: projects});
+		res.render("about", {});
 	});
 	app.get("/portfolio", function(req, res){
 		//console.log("log");
