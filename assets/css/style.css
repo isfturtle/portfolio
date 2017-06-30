@@ -1,0 +1,53 @@
+header{
+	margin-top: 20px;
+
+}
+h1{
+	background: #CA6C40;
+	color: #f3d7f4;
+	width: fit-content;
+	padding: 20px;
+}
+h2{
+	background: #CA6C40;
+	color: #f3d7f4;
+	width: fit-content;
+	padding: 5px;
+}
+nav{
+
+}
+.greyBG{
+	background: #ccc;
+}
+.row1{
+	background: #fff;
+}
+#gradPic{
+	float:left;
+	}
+.whiteBox{
+	background: #fff;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+footer{
+	background: #f3d7f4;
+	color: #444;
+	padding: 20px;
+}
+.icon{
+	position: relative;
+	float:left;
+	margin: 5px;
+}
+.text{
+	position: absolute;
+	bottom: 50px;
+	background: #4aaaa5;
+	color: #ffffff ;
+	width: 200px;
+	height: 50px;
+	box-sizing: border-box;
+	padding: 20px;
+}
