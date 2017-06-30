@@ -3,16 +3,19 @@ header{
 
 }
 h1{
-	background: #CA6C40;
-	color: #f3d7f4;
+	background: #f7882f;
+	color: #C6D8D3;
 	width: fit-content;
 	padding: 20px;
 }
 h2{
-	background: #CA6C40;
-	color: #f3d7f4;
+	background: #f7882f;
+	color: #C6D8D3;
 	width: fit-content;
 	padding: 5px;
+}
+.container{
+	background: #FDF0D5;
 }
 nav{
 
@@ -32,7 +35,7 @@ nav{
 	margin-bottom: 50px;
 }
 footer{
-	background: #f3d7f4;
+	background: #C6D8D3;
 	color: #444;
 	padding: 20px;
 }
