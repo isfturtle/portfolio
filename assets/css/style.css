@@ -54,3 +54,6 @@ footer{
 	box-sizing: border-box;
 	padding: 20px;
 }
+.main{
+	max-width: 1024px;
+}
